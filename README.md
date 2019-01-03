@@ -7,7 +7,7 @@
 
 
 * 成果物: brickset2016.json
-* 設定ファイル: [brickset.py](https://github.com/reiichii/pra_python3_webscraping/lego_scraper/spiders/brickset.py)
+* 設定ファイル: [brickset.py](https://github.com/reiichii/pra_python3_webscraping/blob/master/lego_scraper/lego_scraper/spiders/brickset.py)
 * 実行コマンド
 ```
 scrapy crawl brickset -o brickset2016.json
