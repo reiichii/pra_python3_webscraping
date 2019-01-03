@@ -1,0 +1,15 @@
+Cache-Control: public, max-age=7200
+Content-Encoding: gzip
+Content-Type: text/plain
+Date: Thu, 03 Jan 2019 09:24:12 GMT
+Last-Modified: Tue, 11 Dec 2018 08:40:02 GMT
+X-Xss-Protection: 1; mode=block
+Set-Cookie: __cfduid=d2f26ef434b7d7bf50602eeed082d16d41546507452; expires=Fri, 03-Jan-20 09:24:12 GMT; path=/; domain=.brickset.com; HttpOnly; Secure
+Expires: Thu, 03 Jan 2019 11:24:12 GMT
+Etag: W/"0dd681b2d91d41:0"
+Server: cloudflare
+Vary: Accept-Encoding
+Cf-Ray: 493469395c6aa59c-NRT
+Cf-Cache-Status: REVALIDATED
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+X-Powered-By-Plesk: PleskWin

@@ -1,0 +1,13 @@
+Cache-Control: private
+Content-Encoding: gzip
+Content-Type: text/html; charset=utf-8
+Server: cloudflare
+Vary: Content-Encoding
+Cf-Ray: 493469402d6da59c-NRT
+X-Xss-Protection: 1; mode=block
+Set-Cookie: ASP.NET_SessionId=r4rq2jtkysgr3x0abszlnrta; path=/; HttpOnly
+Set-Cookie: ActualCountry=CountryCode=JP&CountryName=Japan; expires=Fri, 04-Jan-2019 09:24:13 GMT; path=/; HttpOnly
+Set-Cookie: PreferredCountry2=CountryCode=JP&CountryName=Japan; expires=Fri, 03-Jan-2020 09:24:13 GMT; path=/; HttpOnly
+Date: Thu, 03 Jan 2019 09:24:15 GMT
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+X-Powered-By-Plesk: PleskWin
